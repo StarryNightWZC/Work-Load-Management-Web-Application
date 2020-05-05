@@ -1,0 +1,14 @@
+flask==1.0
+flask-wtf==0.14.2
+flask-sqlalchemy==2.3.2
+mysql-connector-python==8.0.19
+mysqlclient==1.4.6
+pymysql==0.9.3
+Boto3==1.12.16
+Pytz==2019.3
+
+
+
+
+
+
